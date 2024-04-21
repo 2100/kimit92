@@ -1,0 +1,62 @@
+.container {
+    width: 80%;
+    height: 80vh;
+    margin: 100px auto;
+}
+
+.items {
+    width: 25%;
+    height: 30vh;
+    display: inline-block;
+}
+
+.items i {
+    float: left;
+    padding-top: 8%;
+}
+
+.content {
+    padding-left: 10%;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+
+/* OOCSS */
+.fz-10 {
+    font-size: 10px;
+}
+
+.fz-20 {
+    font-size: 20px;
+}
+
+.fz-30 {
+    font-size: 30px;
+}
+
+.fz-40 {
+    font-size: 40px;
+}
+
+.fz-50 {
+    font-size: 50px;
+}
+
+.fz-60 {
+    font-size: 60px;
+}
